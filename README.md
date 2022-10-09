@@ -1,5 +1,5 @@
 <h1>This is my first Django project</h1>
-<p>There i will try to use all of my knowledge and skills to reach nice results. <br> There is a few purposes of this project: </p>
+<p>At this application will try to use all of my knowledge and skills to reach nice results. <br> There is a few purposes of this project: </p>
 <ul>
   <li>General knowledge of web-development especially how web-apps are working</li>
   <li>Get learn of DB and ORM</li>
