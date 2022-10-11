@@ -31,8 +31,6 @@ class Category(models.Model):
         verbose_name_plural = 'Категории'
         ordering = ['id']
 
-
-
     # id - INT
     # title - Varchar
     # content - Text
